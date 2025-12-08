@@ -1,43 +1,54 @@
-<!-- ======================================================================= -->
-<!-- 🎉 LEETCODE TRACKER — BY NANDANI | ANIMATED & CLEAN README TEMPLATE     -->
-<!-- ======================================================================= -->
+<!-- ========================================================= -->
+<!--         🚀 ULTRA-ADVANCED LEETCODE TRACKER README         -->
+<!-- ========================================================= -->
 
-<h1 align="center">🚀 LeetCode Tracker</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=F78BFF&center=true&vCenter=true&width=800&height=70&lines=Tracking+my+LeetCode+Journey+Daily...;DSA+Mastery+One+Problem+at+a+Time!;Building+Logic+%7C+Improving+Consistency+%7C+Cracking+Placements" />
-</p>
+# ⚡ LeetCode Tracker – Advanced Analytics + Clean UI
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/srivastavanandani190-lang/LeetCode-Tracker?color=8AFF8A&label=Repo%20Size&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LeetCode-Tracker-FFB6C1?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1200&color=8AFFEA&center=true&vCenter=true&width=900&height=90&lines=300%2B+Problems+Incoming...;Structuring+My+DSA+Journey;Mastering+Algorithms+Every+Single+Day" />
 
----
+<br>
 
-## 🌟 **About This Repository**
-This repository contains my **LeetCode problem solutions**, organized neatly with:
-✔ Clean folder structure  
-✔ Individual problem explanation  
-✔ Progress tracking  
-✔ Animated, aesthetic README  
-✔ (Optional) Auto-updating stats using GitHub Actions  
+<img src="https://img.shields.io/badge/Status-Active-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/srivastavanandani190-lang/LeetCode-Tracker?style=for-the-badge&color=FFB6C1">
+<img src="https://img.shields.io/badge/Track_My_Progress-Live-34C759?style=for-the-badge">
 
-> 💡 *This repo highlights your DSA consistency — great for GitHub profile + placements.*
+</div>
 
 ---
 
-## 📊 **Live Progress Dashboard**
+# 📊 **Advanced Live Dashboard**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-0-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-0-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge" />
-</p>
+<div align="center">
 
-*(Replace numbers after solving problems OR let GitHub Action auto-update.)*
+### 🌟 *Progress Overview*
+<img src="https://img.shields.io/badge/Total_Solved-0-06D6A0?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/Easy-0-4CAF50?style=for-the-badge">
+<img src="https://img.shields.io/badge/Medium-0-F4D03F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hard-0-E74C3C?style=for-the-badge">
 
 ---
 
- 
+### 📈 *Heatmap (GitHub Contribution Style)*
+> Add once you have commits.
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavanandani190-lang&theme=radical&hide_border=true" />
+
+---
+
+### 🧠 *Skill Mastery Radar (dynamic once data available)*  
+*(Optional — can be generated automatically)*  
+- Array ✓  
+- Hashmap ✓  
+- Linked List ✓  
+- DP ✦  
+- Graph Theory ✦  
+- Trees ✦  
+
+</div>
+
+---
+
+# 🎛️ **Command Palette (Quick Navigation)**
+
