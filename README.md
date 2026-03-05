@@ -72,6 +72,7 @@
 | [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
+| [1929-concatenation-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +102,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
