@@ -73,6 +73,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [1929-concatenation-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1929-concatenation-of-array/) | Easy |
+| [2788-split-strings-by-separator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2788-split-strings-by-separator/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1929-concatenation-of-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2788-split-strings-by-separator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2788-split-strings-by-separator/) | Easy |
 <!---LeetCode Topics End-->
