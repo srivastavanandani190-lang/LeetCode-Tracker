@@ -111,4 +111,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2788-split-strings-by-separator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2788-split-strings-by-separator/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
