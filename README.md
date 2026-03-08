@@ -72,6 +72,7 @@
 | [0031-next-permutation](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
+| [0135-candy](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0135-candy/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [1929-concatenation-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1929-concatenation-of-array/) | Easy |
@@ -124,4 +125,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0050-powx-n/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0135-candy](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0135-candy/) | Hard |
 <!---LeetCode Topics End-->
