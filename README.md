@@ -116,6 +116,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0058-length-of-last-word/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2788-split-strings-by-separator/) | Easy |
 ## Math
 | Problem Name | Difficulty |
