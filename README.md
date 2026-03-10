@@ -1,133 +1,85 @@
-<!-- ===================================================================== -->
-<!-- 💚 LEETCODE TRACKER — BY NANDANI | GREEN NEON THEME README             -->
-<!-- ===================================================================== -->
+<!-- =============================================================== -->
+<!-- 💚 LEETCODE TRACKER — BY NANDANI | GREEN NEON ANIMATED README  -->
+<!-- =============================================================== -->
 
-<h1 align="center">💻LeetCode Tracker</h1>
-<h3 align="center">Daily DSA • Consistency • Growth</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-?font=Poppins
-&weight=700
-&size=26
-&pause=1200
-&color=22C55E
-&center=true
-&vCenter=true
-&width=900
-&height=70
-&lines=Tracking+My+LeetCode+Journey+Daily;DSA+Mastery+One+Problem+at+a+Time;Consistency+Today+Placements+Tomorrow" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=22C55E&text=LeetCode%20Tracker&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/srivastavanandani190-lang/LeetCode-Tracker?style=for-the-badge&color=22C55E&label=Repo%20Size" />
-  <img src="https://img.shields.io/badge/LeetCode-Tracker-16A34A?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-Focused-15803D?style=for-the-badge" />
-</p>
+<h2>🚀 Daily DSA • Consistency • Growth</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=900&height=70&lines=Tracking+My+LeetCode+Journey+Daily;DSA+Mastery+One+Problem+at+a+Time;Consistency+Today+Placements+Tomorrow;Building+Logic+Every+Day" />
+
+</div>
 
 ---
 
-## 🌱 About This Repository
+# 📊 Repository Stats
 
-🚀 This repository documents my **daily LeetCode problem-solving journey**, built to showcase:
+<div align="center">
 
-- ✅ Strong **DSA fundamentals**
-- 🧠 Logical & optimized solutions
-- 📁 Well-organized folder structure
-- 📝 Clear explanations
-- 📊 Visible progress over time
+<img src="https://img.shields.io/github/repo-size/srivastavanandani190-lang/LeetCode-Tracker?style=for-the-badge&color=22C55E&label=Repo%20Size" />
 
-> 💡 *Designed to reflect consistency, discipline, and placement readiness.*
+<img src="https://img.shields.io/github/last-commit/srivastavanandani190-lang/LeetCode-Tracker?style=for-the-badge&color=16A34A" />
 
----
+<img src="https://img.shields.io/badge/DSA-Focused-15803D?style=for-the-badge" />
 
-## 📊 Live Progress Dashboard
+<img src="https://img.shields.io/badge/LeetCode-Practice-22C55E?style=for-the-badge&logo=leetcode&logoColor=white" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-0-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Easy-0-4ADE80?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-0-FACC15?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hard-0-E11D48?style=for-the-badge" />
-</p>
-
-> 🔄 *Numbers will grow as I solve more problems.*
+</div>
 
 ---
 
-## 🧩 Repository Structure
+# 🌱 About This Repository
 
-```bash
-📂 LeetCode-Tracker
- ┣ 📁 Easy
+🚀 This repository tracks my **daily LeetCode problem solving journey**.
+
+### Goals
+
+✔ Strengthen **Data Structures & Algorithms**  
+✔ Improve **problem-solving ability**  
+✔ Maintain **daily consistency**  
+✔ Prepare for **technical interviews**
+
+> 💡 *Consistency beats intensity.*
+
+---
+
+# 📈 Live Problem Progress
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Total%20Solved-0-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Easy-0-4ADE80?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Medium-0-FACC15?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hard-0-E11D48?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🧠 DSA Topics Covered
+
+<div align="center">
+
+| Topic | Problems |
+|------|------|
+| 🟩 Array | Multiple |
+| 🟦 Binary Search | Multiple |
+| 🟨 Sorting | Multiple |
+| 🟪 Heap / Priority Queue | Multiple |
+| 🟥 Greedy | Multiple |
+| 🟧 Recursion | Multiple |
+| 🟫 String | Multiple |
+
+</div>
+
+ 
+
+ 
  ┣ 📁 Medium
  ┣ 📁 Hard
  ┣ 📄 README.md
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-| [0031-next-permutation](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0031-next-permutation/) | Medium |
-| [0033-search-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
-| [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
-| [0135-candy](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0135-candy/) | Hard |
-| [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
-| [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
-| [1929-concatenation-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1929-concatenation-of-array/) | Easy |
-| [2788-split-strings-by-separator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2788-split-strings-by-separator/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-| [0033-search-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
-| [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-| [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
-| [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
-## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0031-next-permutation](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0031-next-permutation/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1929-concatenation-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1929-concatenation-of-array/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0058-length-of-last-word](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0058-length-of-last-word/) | Easy |
-| [2788-split-strings-by-separator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2788-split-strings-by-separator/) | Easy |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0050-powx-n](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0050-powx-n/) | Medium |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0050-powx-n](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0050-powx-n/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0135-candy](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0135-candy/) | Hard |
-<!---LeetCode Topics End-->
