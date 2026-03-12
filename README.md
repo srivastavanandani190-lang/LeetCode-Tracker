@@ -76,3 +76,11 @@
 | 🟫 String | Multiple |
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0009-palindrome-number/) | Easy |
+<!---LeetCode Topics End-->
