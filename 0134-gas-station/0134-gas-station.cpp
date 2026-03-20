@@ -19,7 +19,7 @@ public:
 
                 if(count < 0){
                     count = 0;
-                    index = i + 1;   // 🔥 fix here
+                    index = i + 1;    
                 }
             }
         }
