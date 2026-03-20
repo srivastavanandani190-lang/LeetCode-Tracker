@@ -5,23 +5,24 @@ public:
         
         for(int i = 0; i < gas.size(); i++){
             sum1 += gas[i];
+        }
+        for(int i = 0; i < cost.size(); i++){
             sum2 += cost[i];
         }
 
+        int count = 0, index = 0;
+
         if(sum1 < sum2) return -1;
+        else{
+            for(int i = 0; i < gas.size(); i++){
+                count += gas[i] - cost[i];
 
-        int tank = 0;
-        int index = 0;
-
-        for(int i = 0; i < gas.size(); i++){
-            tank += gas[i] - cost[i];
-
-            if(tank < 0){
-                tank = 0;
-                index = i + 1;
+                if(count < 0){
+                    count = 0;
+                    index = i + 1;   // 🔥 fix here
+                }
             }
         }
-
         return index;
     }
 };
