@@ -87,6 +87,7 @@
 | [0043-multiply-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0067-add-binary/) | Easy |
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0067-add-binary/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
