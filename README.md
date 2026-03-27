@@ -87,6 +87,7 @@
 | [0043-multiply-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0067-add-binary/) | Easy |
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
+| [1323-maximum-69-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -152,6 +153,7 @@
 | ------- | ------- |
 | [0134-gas-station](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
+| [1323-maximum-69-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
