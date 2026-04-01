@@ -92,6 +92,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2652-sum-multiples](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Array
 | Problem Name | Difficulty |
