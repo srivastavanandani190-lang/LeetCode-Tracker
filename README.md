@@ -90,6 +90,7 @@
 | [0258-add-digits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0258-add-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0067-add-binary/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
