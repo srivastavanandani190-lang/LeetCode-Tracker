@@ -1,27 +1,21 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i = m - 1;       // last element of nums1's valid part
-        int j = n - 1;       // last element of nums2
-        int k = m + n - 1;   // last index of nums1
+        vector<int> res;
 
-        // merge from the back
-        while (i >= 0 && j >= 0) {
-            if (nums1[i] > nums2[j]) {
-                nums1[k] = nums1[i];
-                i--;
-            } else {
-                nums1[k] = nums2[j];
-                j--;
-            }
-            k--;
+        for(int i = 0; i < m; i++) {
+            res.push_back(nums1[i]);
         }
 
-        // if nums2 still has elements left
-        while (j >= 0) {
-            nums1[k] = nums2[j];
-            j--;
-            k--;
+        for(int i = 0; i < n; i++) {
+            res.push_back(nums2[i]);
+        }
+
+        sort(res.begin(), res.end());
+
+         
+        for(int i = 0; i < m + n; i++) {
+            nums1[i] = res[i];
         }
     }
 };
