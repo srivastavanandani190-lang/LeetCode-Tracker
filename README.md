@@ -106,6 +106,7 @@
 | [0088-merge-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
+| [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
@@ -189,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -203,6 +205,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
+| [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
