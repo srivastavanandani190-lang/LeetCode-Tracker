@@ -86,6 +86,7 @@
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0258-add-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
@@ -174,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -234,4 +236,8 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
