@@ -97,6 +97,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3024-type-of-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
