@@ -124,6 +124,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
