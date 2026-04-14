@@ -153,6 +153,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2942-find-words-containing-character/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
