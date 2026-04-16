@@ -113,6 +113,7 @@
 | [0088-merge-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
+| [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
@@ -187,6 +188,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -229,6 +232,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -237,6 +241,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Counting Sort
