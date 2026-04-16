@@ -94,6 +94,7 @@
 | [1323-maximum-69-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2652-sum-multiples/) | Easy |
