@@ -90,6 +90,7 @@
 | [0171-excel-sheet-column-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -116,6 +117,7 @@
 | [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -138,6 +140,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
 ## String
@@ -181,6 +184,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0067-add-binary/) | Easy |
+| [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -216,6 +220,7 @@
 | [0088-merge-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -234,6 +239,7 @@
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
