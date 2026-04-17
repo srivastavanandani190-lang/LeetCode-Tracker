@@ -130,6 +130,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1929-concatenation-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -173,6 +174,7 @@
 | [0067-add-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1929-concatenation-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
