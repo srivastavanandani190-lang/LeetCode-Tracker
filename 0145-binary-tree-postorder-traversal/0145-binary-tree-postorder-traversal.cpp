@@ -18,10 +18,14 @@ public:
 
         vector<int> left = postorderTraversal(root->left);
         vector<int> right = postorderTraversal(root->right);
-
-        left.insert(left.end(), right.begin(), right.end());
-        left.push_back(root->val);
-
-        return left;
+        
+        vector<int> result;
+          
+        result.insert(result.end(), left.begin(), left.end());   // Left
+        result.insert(result.end(), right.begin(), right.end()); // Right
+        result.push_back(root->val);     // Root
+        
+        return result;
+         
     }
 };
