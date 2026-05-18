@@ -156,6 +156,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
