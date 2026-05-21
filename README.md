@@ -110,6 +110,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -163,6 +164,7 @@
 | [0008-string-to-integer-atoi](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0058-length-of-last-word/) | Easy |
@@ -340,4 +342,8 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
