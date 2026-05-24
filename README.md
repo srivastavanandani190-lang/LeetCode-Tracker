@@ -204,6 +204,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -352,4 +353,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0014-longest-common-prefix/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
