@@ -116,6 +116,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
@@ -153,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0349-intersection-of-two-arrays/) | Easy |
