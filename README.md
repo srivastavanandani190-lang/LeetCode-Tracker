@@ -170,6 +170,7 @@
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0067-add-binary/) | Easy |
