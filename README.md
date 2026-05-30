@@ -86,6 +86,7 @@
 | [0012-integer-to-roman](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0048-rotate-image/) | Medium |
 | [0067-add-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -120,6 +121,7 @@
 | [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
@@ -322,6 +324,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0048-rotate-image/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
