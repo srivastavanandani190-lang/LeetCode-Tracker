@@ -143,6 +143,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0929-unique-email-addresses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0929-unique-email-addresses/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1470-shuffle-the-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1470-shuffle-the-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
