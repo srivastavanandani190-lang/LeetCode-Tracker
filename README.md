@@ -235,6 +235,7 @@
 | [0190-reverse-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0338-counting-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -253,6 +254,7 @@
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0338-counting-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
