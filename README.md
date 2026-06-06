@@ -161,6 +161,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2942-find-words-containing-character/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -321,6 +322,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,4 +411,5 @@
 | [0209-minimum-size-subarray-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
