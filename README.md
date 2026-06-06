@@ -162,6 +162,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2942-find-words-containing-character/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -412,4 +413,5 @@
 | [0713-subarray-product-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 <!---LeetCode Topics End-->
