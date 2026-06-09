@@ -146,6 +146,7 @@
 | [0645-set-mismatch](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0929-unique-email-addresses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0929-unique-email-addresses/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -263,6 +264,7 @@
 | [0198-house-robber](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
