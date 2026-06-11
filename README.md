@@ -227,6 +227,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Recursion
@@ -428,4 +429,8 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
