@@ -208,6 +208,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0929-unique-email-addresses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -237,6 +238,7 @@
 | [0503-next-greater-element-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
