@@ -206,6 +206,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0929-unique-email-addresses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -239,6 +240,7 @@
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0844-backspace-string-compare](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
