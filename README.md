@@ -205,6 +205,7 @@
 | [0344-reverse-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0929-unique-email-addresses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -234,6 +235,7 @@
 | [0155-min-stack](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Recursion
@@ -296,6 +298,7 @@
 | [0011-container-with-most-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1323-maximum-69-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1323-maximum-69-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sorting
