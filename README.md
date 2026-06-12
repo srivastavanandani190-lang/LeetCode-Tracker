@@ -201,6 +201,7 @@
 | [0076-minimum-window-substring](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0076-minimum-window-substring/) | Hard |
 | [0171-excel-sheet-column-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
+| [0344-reverse-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0929-unique-email-addresses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0929-unique-email-addresses/) | Easy |
@@ -280,6 +281,7 @@
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0189-rotate-array/) | Medium |
+| [0344-reverse-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
