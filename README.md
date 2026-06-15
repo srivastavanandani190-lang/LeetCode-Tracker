@@ -127,6 +127,7 @@
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
@@ -235,6 +236,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -279,6 +281,7 @@
 | [0005-longest-palindromic-substring](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0213-house-robber-ii/) | Medium |
@@ -394,6 +397,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0048-rotate-image/) | Medium |
+| [0085-maximal-rectangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0085-maximal-rectangle/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -419,6 +423,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0085-maximal-rectangle/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
