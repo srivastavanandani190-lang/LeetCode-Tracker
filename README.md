@@ -126,6 +126,7 @@
 | [0048-rotate-image](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0085-maximal-rectangle/) | Hard |
