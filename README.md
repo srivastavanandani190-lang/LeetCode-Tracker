@@ -125,6 +125,7 @@
 | [0046-permutations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0085-maximal-rectangle/) | Hard |
@@ -319,6 +320,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0016-3sum-closest/) | Medium |
+| [0056-merge-intervals](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
