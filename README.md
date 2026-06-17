@@ -141,6 +141,7 @@
 | [0213-house-robber-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
@@ -339,6 +340,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Hash Table
@@ -381,6 +383,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -453,6 +456,7 @@
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -462,4 +466,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0155-min-stack/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
