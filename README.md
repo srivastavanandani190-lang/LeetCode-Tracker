@@ -262,6 +262,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
 | [0509-fibonacci-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0509-fibonacci-number/) | Easy |
@@ -460,6 +461,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0622-design-circular-queue/) | Medium |
 ## Backtracking
