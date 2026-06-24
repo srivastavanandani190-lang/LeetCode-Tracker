@@ -152,6 +152,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0611-valid-triangle-number/) | Medium |
 | [0622-design-circular-queue](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0641-design-circular-deque/) | Medium |
 | [0645-set-mismatch](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -357,6 +358,7 @@
 | [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0641-design-circular-deque/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -464,6 +466,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0641-design-circular-deque/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,6 +490,7 @@
 | [0155-min-stack](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0641-design-circular-deque/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
