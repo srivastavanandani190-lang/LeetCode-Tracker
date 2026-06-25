@@ -160,6 +160,7 @@
 | [0929-unique-email-addresses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0929-unique-email-addresses/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1470-shuffle-the-array/) | Easy |
@@ -277,6 +278,7 @@
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0338-counting-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -359,6 +361,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0641-design-circular-deque/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -411,6 +414,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -481,6 +485,7 @@
 | [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
