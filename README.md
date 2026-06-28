@@ -145,6 +145,7 @@
 | [0238-product-of-array-except-self](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -292,6 +293,7 @@
 | [0190-reverse-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -348,6 +350,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0611-valid-triangle-number/) | Medium |
@@ -380,6 +383,7 @@
 | [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -395,6 +399,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -413,6 +418,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 ## Prefix Sum
@@ -513,6 +519,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,6 +527,7 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
