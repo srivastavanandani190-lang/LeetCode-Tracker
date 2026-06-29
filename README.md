@@ -164,6 +164,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1046-last-stone-weight](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1046-last-stone-weight/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1470-shuffle-the-array/) | Easy |
@@ -420,6 +421,7 @@
 | [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1046-last-stone-weight/) | Easy |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
