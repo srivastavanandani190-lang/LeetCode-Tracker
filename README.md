@@ -180,6 +180,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2348-number-of-zero-filled-subarrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2942-find-words-containing-character/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -246,6 +247,7 @@
 | [1929-concatenation-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -424,6 +426,7 @@
 | [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1046-last-stone-weight/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
