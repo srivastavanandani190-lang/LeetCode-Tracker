@@ -133,6 +133,7 @@
 | [0088-merge-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0179-largest-number/) | Medium |
@@ -332,6 +333,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0611-valid-triangle-number/) | Medium |
