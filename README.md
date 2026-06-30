@@ -148,6 +148,7 @@
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -197,6 +198,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
@@ -357,6 +359,7 @@
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0455-assign-cookies](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0611-valid-triangle-number/) | Medium |
 | [0645-set-mismatch](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0645-set-mismatch/) | Easy |
@@ -424,6 +427,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1046-last-stone-weight/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -448,6 +452,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0048-rotate-image/) | Medium |
 | [0085-maximal-rectangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0085-maximal-rectangle/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
