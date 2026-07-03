@@ -15,7 +15,7 @@ public:
         pq.push({matrix[0][0], {0, 0}});
         vis[0][0] = 1;
 
-        while (--k) {
+        while (k-1) {
 
             auto it = pq.top();
             pq.pop();
@@ -34,6 +34,8 @@ public:
                 pq.push({matrix[i + 1][j], {i + 1, j}});
                 vis[i + 1][j] = 1;
             }
+            k--;
+            
         }
 
         return pq.top().first;
