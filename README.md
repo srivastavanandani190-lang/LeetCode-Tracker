@@ -264,6 +264,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0224-basic-calculator/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0844-backspace-string-compare](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0844-backspace-string-compare/) | Easy |
@@ -379,6 +380,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -528,6 +530,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0622-design-circular-queue](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0622-design-circular-queue/) | Medium |
