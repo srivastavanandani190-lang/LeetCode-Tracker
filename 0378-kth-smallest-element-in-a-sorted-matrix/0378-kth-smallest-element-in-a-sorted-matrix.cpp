@@ -1,36 +1,41 @@
 class Solution {
 public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {
-        vector<pair<int, pair<int,int>>> temp;
 
-        for(int i = 0; i < matrix.size(); i++) {
-            temp.push_back({matrix[i][0], {i, 0}});
-        }
+        int n = matrix.size();
 
         priority_queue<
             pair<int,pair<int,int>>,
             vector<pair<int,pair<int,int>>>,
             greater<pair<int,pair<int,int>>>
-        > p(temp.begin(), temp.end());
+        > pq;
 
-        int ans = 0;
+        vector<vector<int>> vis(n, vector<int>(n, 0));
 
-        while(k--) {
+        pq.push({matrix[0][0], {0, 0}});
+        vis[0][0] = 1;
 
-            auto element = p.top();
-            p.pop();
+        while (--k) {
 
-            ans = element.first;
+            auto it = pq.top();
+            pq.pop();
 
-            int i = element.second.first;
-            int j = element.second.second;
+            int i = it.second.first;
+            int j = it.second.second;
 
-            if(j + 1 < matrix[i].size()) {
-                p.push({matrix[i][j + 1], {i, j + 1}});
+            // Push right element
+            if (j + 1 < n && !vis[i][j + 1]) {
+                pq.push({matrix[i][j + 1], {i, j + 1}});
+                vis[i][j + 1] = 1;
+            }
+
+            // Push down element
+            if (i + 1 < n && !vis[i + 1][j]) {
+                pq.push({matrix[i + 1][j], {i + 1, j}});
+                vis[i + 1][j] = 1;
             }
         }
 
-        return ans;
+        return pq.top().first;
     }
 };
-   
