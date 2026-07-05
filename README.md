@@ -123,6 +123,7 @@
 | [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
@@ -400,6 +401,7 @@
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
