@@ -189,6 +189,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2942-find-words-containing-character/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2974-minimum-number-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2974-minimum-number-game/) | Easy |
@@ -421,6 +422,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
