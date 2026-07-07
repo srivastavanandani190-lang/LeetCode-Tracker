@@ -1,12 +1,12 @@
 <!-- =============================================================== -->
-<!-- 💚 LEETCODE TRACKER — BY NANDANI | GREEN NEON ANIMATED README  -->
+<!-- 💚LEETCODE TRACKER — BY NANDANI | GREEN NEON ANIMATED README  -->
 <!-- =============================================================== -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=22C55E&text=LeetCode%20Tracker&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-<h2>🚀 Daily DSA • Consistency • Growth</h2>
+<h2>🚀Daily DSA • Consistency • Growth</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=900&height=70&lines=Tracking+My+LeetCode+Journey+Daily;DSA+Mastery+One+Problem+at+a+Time;Consistency+Today+Placements+Tomorrow;Building+Logic+Every+Day" />
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 📊 Repository Stats
+# 📊Repository Stats
 
 <div align="center">
 
@@ -30,9 +30,9 @@
 
 ---
 
-# 🌱 About This Repository
+# 🌱About This Repository
 
-🚀 This repository tracks my **daily LeetCode problem solving journey**.
+🚀This repository tracks my **daily LeetCode problem solving journey**.
 
 ### Goals
 
@@ -41,11 +41,11 @@
 ✔ Maintain **daily consistency**  
 ✔ Prepare for **technical interviews**
 
-> 💡 *Consistency beats intensity.*
+> 💡*Consistency beats intensity.*
 
 ---
 
-# 📈 Live Problem Progress
+# 📈Live Problem Progress
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-# 🧠 DSA Topics Covered
+# 🧠DSA Topics Covered
 
 <div align="center">
 
