@@ -112,25 +112,12 @@ Every solution is written with a focus on:
 
 ---
 
-# ⭐ If You Like This Repository
-
-<div align="center">
-
-### 🌟 Star this repository if it inspired or helped you!
-
-**Every star motivates me to keep learning and sharing.**
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA116&height=120&section=footer"/>
 
 ## 🚀 Keep Coding • Keep Learning • Keep Growing
 
-### Made with ❤️ by **Nandani Srivastava**
 
 *"Consistency today builds success tomorrow."*
 
