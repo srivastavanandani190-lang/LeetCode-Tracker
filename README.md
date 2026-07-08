@@ -73,7 +73,6 @@ Every solution is written with a focus on:
 
 </div>
 
-> Replace the placeholder usernames with your actual profile usernames.
 
 ---
 
@@ -165,6 +164,126 @@ LeetCode-Tracker
 ├── Math
 └── README.md
 ```
+
+---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **Enable GitHub Actions to generate this automatically.**
+
+<img src="https://raw.githubusercontent.com/srivastavanandani190-lang/srivastavanandani190-lang/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+- 🧩 Daily LeetCode Challenges
+- 📚 Advanced Data Structures
+- ⚡ Dynamic Programming
+- 🌳 Trees & Graphs
+- 🔍 Binary Search Patterns
+- 💼 Interview Preparation
+- 🚀 Consistent Problem Solving
+
+---
+
+# 📖 Learning Roadmap
+
+| Stage | Progress |
+|--------|:--------:|
+| Arrays & Strings | ✅ |
+| Hashing | ✅ |
+| Linked List | ✅ |
+| Stack & Queue | ✅ |
+| Binary Search | ✅ |
+| Trees | 🔄 |
+| Graphs | 🔄 |
+| Heap | 🔄 |
+| Greedy | 🔄 |
+| Dynamic Programming | ⏳ |
+| Backtracking | ⏳ |
+| Advanced Algorithms | ⏳ |
+
+---
+
+# 💻 Languages Used
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Structures-FFA116?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Algorithms-262626?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</div>
+
+---
+
+# 🌟 Why This Repository?
+
+✔ Clean and readable C++ solutions
+
+✔ Topic-wise organization
+
+✔ Interview-focused approach
+
+✔ Daily consistency
+
+✔ Easy navigation
+
+✔ Helpful for revision
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/srivastavanandani190-lang">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+> Replace the LinkedIn URL and email address with your own.
+
+---
+
+# ⭐ If You Like This Repository
+
+<div align="center">
+
+### 🌟 Star this repository if it inspired or helped you!
+
+**Every star motivates me to keep learning and sharing.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA116&height=120&section=footer"/>
+
+## 🚀 Keep Coding • Keep Learning • Keep Growing
+
+### Made with ❤️ by **Nandani Srivastava**
+
+*"Consistency today builds success tomorrow."*
+
+</div>
 
 ---
 
