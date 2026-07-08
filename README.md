@@ -51,221 +51,128 @@ Every solution is written with a focus on:
 - 💼 Crack Top Product-Based Companies
 
 ---
-
-# 📊 Repository Statistics
-
-<p align="center">
-
-<img src="https://img.shields.io/github/repo-size/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=FFA116"/>
-
-<img src="https://img.shields.io/github/last-commit/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=F4B400"/>
-
-<img src="https://img.shields.io/github/languages/count/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=262626"/>
-
-<img src="https://img.shields.io/github/license/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=FFB000"/>
-
-</p>
-
----
-
-# 📈 LeetCode Progress
-
-> Update these numbers regularly.
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Total%20Solved-XXX-FFA116?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Easy-XXX-00B8A3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Medium-XXX-FFA116?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hard-XXX-FF375F?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📚 Topics Covered
-
-| Topic | Status |
-|--------|--------|
-| 🟠 Arrays | ✅ |
-| 🟠 Strings | ✅ |
-| 🟠 Hash Map | ✅ |
-| 🟠 Stack | ✅ |
-| 🟠 Queue | ✅ |
-| 🟠 Linked List | ✅ |
-| 🟠 Binary Search | ✅ |
-| 🟠 Trees | ✅ |
-| 🟠 Binary Tree | ✅ |
-| 🟠 BST | ✅ |
-| 🟠 Heap | ✅ |
-| 🟠 Sliding Window | ✅ |
-| 🟠 Two Pointers | ✅ |
-| 🟠 Greedy | ✅ |
-| 🟠 Recursion | ✅ |
-| 🟠 Backtracking | ✅ |
-| 🟠 Dynamic Programming | ✅ |
-| 🟠 Graph | ✅ |
-| 🟠 Trie | ✅ |
-| 🟠 Bit Manipulation | ✅ |
-| 🟠 Math | ✅ |
-
----
-
-# 📅 Daily Progress
-
-| Month | Status |
-|--------|--------|
-| January | ✅ |
-| February | ✅ |
-| March | ✅ |
-| April | ✅ |
-| May | ✅ |
-| June | ✅ |
-| July | 🔥 In Progress |
-| August | ⏳ |
-| September | ⏳ |
-| October | ⏳ |
-| November | ⏳ |
-| December | ⏳ |
-
----| ✅ Strings | ✔ |
-| ✅ HashMap | ✔ |
-| ✅ Stack | ✔ |
-| ✅ Queue | ✔ |
-| ✅ Linked List | ✔ |
-| ✅ Binary Search | ✔ |
-| ✅ Trees | ✔ |
-| ✅ Binary Tree | ✔ |
-| ✅ BST | ✔ |
-| ✅ Heap | ✔ |
-| ✅ Sliding Window | ✔ |
-| ✅ Two Pointers | ✔ |
-| ✅ Greedy | ✔ |
-| ✅ Backtracking | ✔ |
-| ✅ Dynamic Programming | ✔ |
-| ✅ Graph | ✔ |
-| ✅ Trie | ✔ |
-| ✅ Bit Manipulation | ✔ |
-| ✅ Math | ✔ |
-
----
-
-# 📅 Daily Progress
-
-| Month | Status |
-|--------|--------|
-| January | ✅ |
-| February | ✅ |
-| March | ✅ |
-| April | ✅ |
-| May | ✅ |
-| June | ✅ |
-| July | 🔥 In Progress |
-| August | ⏳ |
-| September | ⏳ |
-| October | ⏳ |
-| November | ⏳ |
-| December | ⏳ |
-
----
-
 # 🌐 Coding Profiles
 
-<p align="center">
+<div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/srivastavanandani190-lang">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-> Replace the links above with your own profile URLs.
+</div>
+
+> Replace the placeholder usernames with your actual profile usernames.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=radical"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-- 🚀 Daily LeetCode Practice
-- 💻 Clean C++ Solutions
-- 📚 Strong DSA Foundation
-- 🎯 Interview Preparation
-- 🌱 Continuous Learning
-
----
-
-# 💡 Quote
-
 <div align="center">
 
-## "Success is the sum of small efforts repeated every day."
-
-⭐ Star this repository if you find it inspiring.
+<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📂 Folder Structure
+# 🏆 GitHub Trophies
 
-```
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=srivastavanandani190-lang&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+- 🚀 Solving LeetCode problems every day
+- 💻 Writing clean and optimized C++ solutions
+- 📚 Strengthening DSA concepts
+- 🎯 Preparing for coding interviews
+- 🌱 Learning continuously
+- ⚡ Improving logical thinking
+
+---
+
+# 💡 Favorite Quote
+
+<div align="center">
+
+## *"Success is the sum of small efforts, repeated day in and day out."*
+
+</div>
+
+---
+
+# 📂 Repository Structure
+
+```text
 LeetCode-Tracker
-
+│
 ├── Arrays
 ├── Strings
-├── Binary Search
-├── Trees
-├── Graph
-├── Dynamic Programming
-├── Heap
-├── Greedy
+├── HashMap
+├── Linked List
 ├── Stack
 ├── Queue
-├── Linked List
+├── Binary Search
+├── Trees
+├── BST
+├── Heap
+├── Sliding Window
+├── Two Pointers
+├── Greedy
+├── Dynamic Programming
+├── Graph
+├── Trie
+├── Bit Manipulation
+├── Math
 └── README.md
-
 ```
 
 ---
 
-<div align="center">
+# ⭐ Support
 
-## 🚀 Keep Coding • Keep Learning • Keep Growing
+If you find this repository useful,
 
-Made with ❤️ by **Nandani Srivastava**
+🌟 **Star this repository** and follow my coding journey!
 
-</div>
-
+---
+ 
