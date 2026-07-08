@@ -1,76 +1,86 @@
-
 <!-- =============================================================== -->
-<!-- 💚 LEETCODE TRACKER | PREMIUM GREEN README -->
+<!-- 🟠 LEETCODE TRACKER | PREMIUM README -->
 <!-- =============================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=22C55E&text=LeetCode%20Tracker&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FFA116&text=LeetCode%20Tracker&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 # 🚀 Daily DSA Journey
 
 ### *Consistency • Learning • Growth • Placements*
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Tracking+My+Daily+LeetCode+Journey;Building+Strong+Problem+Solving+Skills;Preparing+for+Top+Product+Companies;One+Problem+Every+Single+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1200&color=FFA116&center=true&vCenter=true&width=900&lines=Tracking+My+Daily+LeetCode+Journey;Building+Strong+Problem+Solving+Skills;Preparing+for+Top+Product+Companies;One+Problem+Every+Single+Day;Consistency+Today+Success+Tomorrow"/>
 
-<img src="https://komarev.com/ghpvc/?username=srivastavanandani190-lang&label=Profile+Views&color=22C55E&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=srivastavanandani190-lang&label=Profile+Views&color=FFA116&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/srivastavanandani190-lang?style=for-the-badge&color=FFA116"/>
+
+<img src="https://img.shields.io/github/stars/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=F4B400"/>
 
 </div>
 
 ---
 
-# 📖 About
+# 📖 About This Repository
 
 Welcome to my **LeetCode Tracker** repository.
 
-This repository contains all my daily LeetCode solutions with clean code, optimized approaches, and continuous improvements.
+This repository showcases my daily LeetCode journey, where I solve coding problems consistently to strengthen my Data Structures and Algorithms skills.
 
-I believe that:
+Every solution is written with a focus on:
 
-> **Consistency beats motivation.**
+- ✅ Clean code
+- ✅ Optimized approach
+- ✅ Readability
+- ✅ Interview preparation
+- ✅ Continuous improvement
 
-Every solved problem improves my logical thinking and prepares me for software engineering interviews.
-
----
-
-# 🎯 Goals
-
-- ✅ Solve 1000+ LeetCode Problems
-- ✅ Master Data Structures
-- ✅ Master Algorithms
-- ✅ Improve Problem Solving
-- ✅ Prepare for Product-Based Companies
-- ✅ Become Interview Ready
+> **"Small improvements every day lead to remarkable results."**
 
 ---
 
-# 📊 Repository Stats
+# 🎯 2026 Goals
+
+- 🎯 Solve **1000+ LeetCode Problems**
+- 💻 Master Data Structures
+- 🧠 Master Algorithms
+- 🚀 Improve Problem Solving
+- ⭐ Reach Knight Rating on LeetCode
+- ⭐ Achieve 5★ on CodeChef
+- 💼 Crack Top Product-Based Companies
+
+---
+
+# 📊 Repository Statistics
 
 <p align="center">
 
-<img src="https://img.shields.io/github/repo-size/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=22C55E"/>
+<img src="https://img.shields.io/github/repo-size/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=FFA116"/>
 
-<img src="https://img.shields.io/github/last-commit/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=16A34A"/>
+<img src="https://img.shields.io/github/last-commit/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=F4B400"/>
 
-<img src="https://img.shields.io/github/languages/count/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=15803D"/>
+<img src="https://img.shields.io/github/languages/count/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=262626"/>
 
-<img src="https://img.shields.io/github/license/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=4ADE80"/>
+<img src="https://img.shields.io/github/license/srivastavanandani190-lang/leetcode-tracker?style=for-the-badge&color=FFB000"/>
 
 </p>
 
 ---
 
-# 📈 Progress
+# 📈 LeetCode Progress
+
+> Update these numbers regularly.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Total%20Solved-Update%20Daily-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total%20Solved-XXX-FFA116?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Easy-Update-4ADE80?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Easy-XXX-00B8A3?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Medium-Update-FACC15?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medium-XXX-FFA116?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Hard-Update-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hard-XXX-FF375F?style=for-the-badge"/>
 
 </p>
 
@@ -79,9 +89,49 @@ Every solved problem improves my logical thinking and prepares me for software e
 # 📚 Topics Covered
 
 | Topic | Status |
-|------|------|
-| ✅ Arrays | ✔ |
-| ✅ Strings | ✔ |
+|--------|--------|
+| 🟠 Arrays | ✅ |
+| 🟠 Strings | ✅ |
+| 🟠 Hash Map | ✅ |
+| 🟠 Stack | ✅ |
+| 🟠 Queue | ✅ |
+| 🟠 Linked List | ✅ |
+| 🟠 Binary Search | ✅ |
+| 🟠 Trees | ✅ |
+| 🟠 Binary Tree | ✅ |
+| 🟠 BST | ✅ |
+| 🟠 Heap | ✅ |
+| 🟠 Sliding Window | ✅ |
+| 🟠 Two Pointers | ✅ |
+| 🟠 Greedy | ✅ |
+| 🟠 Recursion | ✅ |
+| 🟠 Backtracking | ✅ |
+| 🟠 Dynamic Programming | ✅ |
+| 🟠 Graph | ✅ |
+| 🟠 Trie | ✅ |
+| 🟠 Bit Manipulation | ✅ |
+| 🟠 Math | ✅ |
+
+---
+
+# 📅 Daily Progress
+
+| Month | Status |
+|--------|--------|
+| January | ✅ |
+| February | ✅ |
+| March | ✅ |
+| April | ✅ |
+| May | ✅ |
+| June | ✅ |
+| July | 🔥 In Progress |
+| August | ⏳ |
+| September | ⏳ |
+| October | ⏳ |
+| November | ⏳ |
+| December | ⏳ |
+
+---| ✅ Strings | ✔ |
 | ✅ HashMap | ✔ |
 | ✅ Stack | ✔ |
 | ✅ Queue | ✔ |
