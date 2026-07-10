@@ -155,5 +155,10 @@ Every solution is written with a focus on:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2652-sum-multiples/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 <!---LeetCode Topics End-->
