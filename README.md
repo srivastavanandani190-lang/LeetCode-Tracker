@@ -152,4 +152,8 @@ Every solution is written with a focus on:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2652-sum-multiples](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2652-sum-multiples/) | Easy |
 <!---LeetCode Topics End-->
