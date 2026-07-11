@@ -23,10 +23,12 @@
 
 ---
 
-### 👤 About Me
-Hey there! I am a passionate software engineering aspirant specializing in solving complex problem sets using **C++**. This repository serves as my digital sandbox and progress journal as I dive deep into Data Structures, Algorithms, and competitive programming patterns to prepare for technical roles at top product companies.
+###   🚀 About This Repository
 
-*🚀 "First, solve the problem. Then, write the code."*
+* **🚀 The Mission** — A high-performance, daily commit journal tracking my relentless pursuit of mastering **Data Structures & Algorithms (DSA)** from scratch.
+* **🎯 Engineering Mindset** — Focused on shifting past brute-force approaches to write production-grade, highly optimized **C++** code with clean execution and minimum time/space complexities.
+* **⚡ Architectural Depth** — Systematically cataloging patterns from linear data layouts up to advanced computational graphs, specialized trees, and complex dynamic programming structures.
+* **💼 Target Vision** — Crafting an interview-ready playbook, optimizing problem-solving instinct, and accelerating preparation for core backend and software engineering roles at top-tier product companies.
 
 ---
 
