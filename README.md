@@ -24,8 +24,9 @@
 ---
 
 ### 👤 About Me
-Hi, I'm **Anandani Srivastava**! 👋 
-I am an aspiring Software Engineer passionate about solving intricate computational problems. This repository serves as my digital sandbox and progress journal as I dive deep into Data Structures and Algorithms. I'm currently honing my C++ skills to write clean, production-grade, and highly optimized code aimed at cracking engineering roles at top-tier product companies.
+Hey there! I am a passionate software engineering aspirant specializing in solving complex problem sets using **C++**. This repository serves as my digital sandbox and progress journal as I dive deep into Data Structures, Algorithms, and competitive programming patterns to prepare for technical roles at top product companies.
+
+*🚀 "First, solve the problem. Then, write the code."*
 
 ---
 
