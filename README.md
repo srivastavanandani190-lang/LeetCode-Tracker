@@ -25,6 +25,8 @@
 
 ###   🚀 About This Repository
 
+<br>
+
 * **🚀 The Mission** — A high-performance, daily commit journal tracking my relentless pursuit of mastering **Data Structures & Algorithms (DSA)** from scratch.
 * **🎯 Engineering Mindset** — Focused on shifting past brute-force approaches to write production-grade, highly optimized **C++** code with clean execution and minimum time/space complexities.
 * **⚡ Architectural Depth** — Systematically cataloging patterns from linear data layouts up to advanced computational graphs, specialized trees, and complex dynamic programming structures.
@@ -33,6 +35,8 @@
 ---
 
 ### 📊 Progress at a Glance
+
+<br>
 
 <div align="center">
 
@@ -49,6 +53,8 @@
 ---
 
 ### 🛣 Roadmap & Topic Status
+
+<br>
 
 ```text
 🟢 Arrays & Strings     ████████████████ 100%  [✅ Completed]
