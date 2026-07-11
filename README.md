@@ -23,8 +23,10 @@
 
 ---
 
-### 💡 Why This Repository?
-A personal DSA journal dedicated to mastering **Data Structures and Algorithms** using optimized C++. Every solution emphasizes clean code, optimal time/space complexity, and interview-oriented logic.
+### 👤 About Me
+Hey there! I am a passionate software engineering aspirant specializing in solving complex problem sets using **C++**. This repository serves as my digital sandbox and progress journal as I dive deep into Data Structures, Algorithms, and competitive programming patterns to prepare for technical roles at top product companies.
+
+*🚀 "First, solve the problem. Then, write the code."*
 
 ---
 
