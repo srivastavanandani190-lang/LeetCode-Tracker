@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FFA116&text=🚀%20LeetCode%20Tracker&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFA116&text=🚀%20LeetCode%20Tracker&fontSize=45&fontAlignY=40&fontColor=ffffff&animation=twinkling"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Daily DSA Journey
 
@@ -65,3 +65,10 @@
 🟠 Greedy & Backtrack   ██████░░░░░░░░░░  40%  [🔄 In Progress]
 🟠 Dynamic Programming  █████░░░░░░░░░░░  35%  [⏳ Upcoming]
 🔴 Advanced (Tries/ST)  ██░░░░░░░░░░░░░░  15%  [⏳ Upcoming]
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FFA116,20:0096C7,40:0077B6,70:00509D,100:003566"/>
+</div>
+
