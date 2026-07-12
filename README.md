@@ -66,7 +66,6 @@
 🟠 Dynamic Programming  █████░░░░░░░░░░░  35%  [⏳ Upcoming]
 🔴 Advanced (Tries/ST)  ██░░░░░░░░░░░░░░  15%  [⏳ Upcoming]
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FFA116,20:0096C7,40:0077B6,70:00509D,100:003566"/>
