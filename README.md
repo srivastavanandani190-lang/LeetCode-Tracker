@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=FFA116&text=🚀%20LeetCode%20Tracker&fontSize=35&fontAlignY=40&fontColor=ffffff&animation=twinkling"/>
 
-<h2>🚀Daily DSA • Consistency • Growth</h2>
+<h2>💻Turning Curiosity into Problem-Solving Excellence</h2>
 
 ### **Consistency • Learning • Growth • Interview Preparation**
 
