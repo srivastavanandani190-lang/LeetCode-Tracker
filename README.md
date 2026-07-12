@@ -69,4 +69,48 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=FFA116"/>
 </div>
 
+<!-- =============================================================== -->
+<!-- 🟠 LEETCODE TRACKER — BY NANDANI | LEETCODE ORANGE README -->
+<!-- =============================================================== -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFA116&text=LeetCode%20Tracker&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+
+<h2>🚀 Daily DSA • Consistency • Growth</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1200&color=FFA116&center=true&vCenter=true&width=900&height=70&lines=Tracking+My+LeetCode+Journey+Daily;DSA+Mastery+One+Problem+at+a+Time;Consistency+Today+Placements+Tomorrow;Building+Logic+Every+Day" />
+
+</div>
+
+---
+
+# 📊 Repository Stats
+
+<div align="center">
+
+<img src="https://img.shields.io/github/repo-size/srivastavanandani190-lang/LeetCode-Tracker?style=for-the-badge&color=FFA116&label=Repo%20Size" />
+
+<img src="https://img.shields.io/github/last-commit/srivastavanandani190-lang/LeetCode-Tracker?style=for-the-badge&color=FFB000" />
+
+<img src="https://img.shields.io/badge/DSA-Focused-FF8C00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</div>
+
+---
+
+# 📈 Live Problem Progress
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Total%20Solved-0-FFA116?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Easy-0-00B8A3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Medium-0-FFA116?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hard-0-FF375F?style=for-the-badge"/>
+
+</div>
