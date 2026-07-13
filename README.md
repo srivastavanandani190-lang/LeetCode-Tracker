@@ -96,6 +96,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +126,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
