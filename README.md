@@ -131,4 +131,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
