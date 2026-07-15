@@ -97,6 +97,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0226-invert-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
@@ -107,6 +108,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -118,6 +120,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0226-invert-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search
@@ -133,6 +136,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Database
