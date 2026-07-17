@@ -212,6 +212,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [2057-smallest-index-with-equal-value](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
