@@ -224,4 +224,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0328-odd-even-linked-list](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
