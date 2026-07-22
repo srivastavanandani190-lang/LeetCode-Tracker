@@ -1,40 +1,35 @@
-#include <string>
-#include <vector>
-#include <utility>
-
 class Solution {
 public:
     string sortSentence(string s) {
-        // Vector to hold pairs of (position, word)
-        vector<pair<int, string>> words;
-        
-        string currentWord = "";
-        for (char c : s) {
-            if (c >= '1' && c <= '9') {
-                // Convert char digit to integer position
-                int pos = c - '0';
-                words.push_back({pos, currentWord});
-                currentWord = ""; // Reset word buffer
-            } else if (c != ' ') {
-                currentWord += c;
+        vector<string> ans(10);
+        string temp;
+        int count = 0, index = 0;
+
+        while (index < s.size()) {
+            if (s[index] == ' ') {
+                int pos = temp.back() - '0';
+                temp.pop_back();
+                ans[pos] = temp;
+                temp.clear();
+                count++;
+            } else {
+                temp += s[index];
             }
+            index++;
         }
-        
-        // Place words into a fixed-size vector based on their 1-based index
-        vector<string> sortedWords(words.size());
-        for (const auto& p : words) {
-            sortedWords[p.first - 1] = p.second;
+
+        int pos = temp.back() - '0';
+        temp.pop_back();
+        ans[pos] = temp;
+
+        string res;
+
+        for (int i = 1; i <= count + 1; i++) {
+            res += ans[i];
+            if (i != count + 1)
+                res += " ";
         }
-        
-        // Reconstruct the sentence
-        string result = "";
-        for (int i = 0; i < sortedWords.size(); i++) {
-            result += sortedWords[i];
-            if (i < sortedWords.size() - 1) {
-                result += " ";
-            }
-        }
-        
-        return result;
+
+        return res;
     }
 };
