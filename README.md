@@ -238,6 +238,7 @@
 | [0344-reverse-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1108-defanging-an-ip-address](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
