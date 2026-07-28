@@ -207,6 +207,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0367-valid-perfect-square](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
@@ -245,6 +246,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
@@ -276,6 +278,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
