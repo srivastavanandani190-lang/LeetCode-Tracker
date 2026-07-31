@@ -215,6 +215,7 @@
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0367-valid-perfect-square](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -250,6 +251,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0328-odd-even-linked-list](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0328-odd-even-linked-list/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
