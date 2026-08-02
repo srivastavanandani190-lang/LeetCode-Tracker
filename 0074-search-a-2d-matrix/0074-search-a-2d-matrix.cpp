@@ -4,21 +4,24 @@ public:
         int n = mat.size();
         if (n == 0) return false;
         int m = mat[0].size();
-        
-        // Start from the top-right corner
-        int i = 0;
-        int j = m - 1;
-        
-        while (i < n && j >= 0) {
-            if (mat[i][j] == x) {
-                return true; 
-            } else if (mat[i][j] > x) {
-                j--; // Move left
+
+        int low = 0;
+        int high = (n * m) - 1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            int row = mid / m;
+            int col = mid % m;
+
+            if (mat[row][col] == x) {
+                return true;
+            } else if (mat[row][col] < x) {
+                low = mid + 1;
             } else {
-                i++; // Move down
+                high = mid - 1;
             }
         }
-        
+
         return false;
     }
 };
