@@ -232,6 +232,7 @@
 | [0228-summary-ranges](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0228-summary-ranges/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0605-can-place-flowers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0605-can-place-flowers/) | Easy |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2057-smallest-index-with-equal-value/) | Easy |
@@ -278,6 +279,7 @@
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
+| [0605-can-place-flowers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
