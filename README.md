@@ -214,6 +214,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0367-valid-perfect-square](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -333,6 +334,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -364,4 +366,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0051-n-queens/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
