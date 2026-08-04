@@ -15,5 +15,12 @@ public:
     int climbStairs(int n) {
         vector<int>dp(n+2,-1);
        return count(0,n,dp);
+    // if(n==0){
+    //     return 1;
+    // }
+    // if(n<0){
+    //     return 0;
+    // }
+    // return climbStairs(n-1)+climbStairs(n-2);
     }
 };
