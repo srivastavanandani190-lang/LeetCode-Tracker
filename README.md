@@ -281,6 +281,7 @@
 | [1768-merge-strings-alternately](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -312,6 +313,7 @@
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
