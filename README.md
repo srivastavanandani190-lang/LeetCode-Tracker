@@ -239,6 +239,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 | [0605-can-place-flowers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0605-can-place-flowers/) | Easy |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -350,6 +351,7 @@
 | [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +380,7 @@
 | [0022-generate-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0078-subsets/) | Medium |
+| [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,8 +405,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
