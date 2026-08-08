@@ -220,6 +220,7 @@
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -246,6 +247,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
