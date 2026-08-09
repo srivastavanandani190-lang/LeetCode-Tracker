@@ -232,6 +232,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
+| [0049-group-anagrams](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0078-subsets/) | Medium |
@@ -252,6 +253,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0049-group-anagrams/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -275,6 +277,7 @@
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
 | [0022-generate-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
@@ -318,6 +321,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0049-group-anagrams/) | Medium |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
