@@ -11,17 +11,21 @@
  */
 class Solution {
 public:
-    bool isSameTree(TreeNode* r1, TreeNode* r2) {
+    bool isSameTree(TreeNode* p, TreeNode* q) {
           // code here
-        if(r1==NULL && r2==NULL){
-            return 1;
-        }
-        if((!r1 && r2)||(r1 &&!r2)){
-            return 0;
-        }
-        if(r1->val !=r2->val){
-            return 0;
-        }
-        return  isSameTree(r1->left,r2->left)&& isSameTree(r1->right,r2->right);
+            if (p == NULL && q == NULL)
+            return true;
+
+    
+        if (p == NULL || q == NULL)
+            return false;
+
+        
+        if (p->val == q->val &&
+            isSameTree(p->left, q->left) &&
+            isSameTree(p->right, q->right))
+            return true;
+
+        return false;
     }
 };
