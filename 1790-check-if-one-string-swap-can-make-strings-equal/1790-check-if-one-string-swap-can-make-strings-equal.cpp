@@ -19,6 +19,9 @@ public:
 
         swap(s1[diff[0]], s1[diff[1]]);
 
-        return s1 == s2;
+         if(s1==s2){
+            return true;
+         }
+        return false;
     }
 };
