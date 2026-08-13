@@ -29,9 +29,12 @@ public:
         person[index] = 1;
 
         // Find the next alive person
-        do {
-            index = (index + 1) % n;
-        } while (person[index] == 1);
+        // do {
+        //     index = (index + 1) % n;
+        // } while (person[index] == 1);
+         while (person[index] == 1) {
+                index = (index + 1) % n;
+            }
 
         return winner(person, n, index, person_left - 1, k);
     }
