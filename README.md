@@ -257,6 +257,7 @@
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2057-smallest-index-with-equal-value/) | Easy |
@@ -274,6 +275,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -347,6 +349,7 @@
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
@@ -404,6 +407,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
