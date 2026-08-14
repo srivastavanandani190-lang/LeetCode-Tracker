@@ -471,4 +471,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
