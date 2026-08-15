@@ -303,6 +303,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -337,6 +338,7 @@
 | [0287-find-the-duplicate-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -387,6 +389,7 @@
 | [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 ## Divide and Conquer
