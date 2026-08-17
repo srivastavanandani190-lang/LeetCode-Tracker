@@ -260,6 +260,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
