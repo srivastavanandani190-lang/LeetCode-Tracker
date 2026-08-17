@@ -243,6 +243,7 @@
 | [0047-permutations-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0118-pascals-triangle/) | Easy |
@@ -392,6 +393,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -401,6 +403,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
