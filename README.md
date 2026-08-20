@@ -314,6 +314,7 @@
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0709-to-lower-case](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0796-rotate-string/) | Easy |
@@ -373,6 +374,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0796-rotate-string/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -472,10 +474,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
