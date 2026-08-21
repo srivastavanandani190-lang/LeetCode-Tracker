@@ -12,7 +12,7 @@ public:
             }
             else if(command[i]=='('&& command[i+1]=='a'&& command[i+2]=='l'&& command[i+3]==')') {
                 ans+="al";
-                i=i+1;
+                i=i+3;
             }
         }
         return ans;
