@@ -226,6 +226,7 @@
 | [0367-valid-perfect-square](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -235,6 +236,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
@@ -263,6 +265,7 @@
 | [0605-can-place-flowers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -373,6 +376,7 @@
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0771-jewels-and-stones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -400,6 +404,7 @@
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -461,10 +466,12 @@
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
