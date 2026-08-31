@@ -292,6 +292,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +408,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -430,6 +432,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
