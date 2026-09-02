@@ -341,6 +341,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
+| [0443-string-compression](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -384,6 +385,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
