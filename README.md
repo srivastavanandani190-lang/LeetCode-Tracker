@@ -350,6 +350,7 @@
 | [0771-jewels-and-stones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0796-rotate-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0917-reverse-only-letters/) | Easy |
+| [0925-long-pressed-name](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0925-long-pressed-name/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1528-shuffle-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
@@ -389,6 +390,7 @@
 | [0443-string-compression](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0917-reverse-only-letters/) | Easy |
+| [0925-long-pressed-name](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0925-long-pressed-name/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
