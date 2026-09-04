@@ -276,6 +276,7 @@
 | [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 | [0605-can-place-flowers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0867-transpose-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -321,6 +322,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Linked List
@@ -452,6 +454,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
+| [0867-transpose-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
