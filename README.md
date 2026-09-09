@@ -245,6 +245,7 @@
 | [1952-three-divisors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2427-number-of-common-factors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2427-number-of-common-factors/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
@@ -253,6 +254,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1952-three-divisors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2427-number-of-common-factors/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -523,11 +525,13 @@
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2427-number-of-common-factors/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -597,6 +601,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1952-three-divisors/) | Easy |
+| [2427-number-of-common-factors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2427-number-of-common-factors/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
