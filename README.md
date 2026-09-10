@@ -103,6 +103,7 @@
 | [0226-invert-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@
 | [0226-invert-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@
 | [0226-invert-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
