@@ -312,6 +312,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
@@ -444,6 +445,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -576,6 +578,7 @@
 | [0326-power-of-three](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0342-power-of-four/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -612,6 +615,7 @@
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2427-number-of-common-factors/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
