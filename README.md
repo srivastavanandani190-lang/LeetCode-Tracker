@@ -249,6 +249,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0441-arranging-coins/) | Easy |
+| [0504-base-7](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0836-rectangle-overlap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -389,6 +390,7 @@
 | [0443-string-compression](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0504-base-7](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0504-base-7/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
