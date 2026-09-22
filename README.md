@@ -287,6 +287,7 @@
 | [0049-group-anagrams](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
@@ -360,6 +361,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -509,6 +511,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0054-spiral-matrix/) | Medium |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0867-transpose-matrix/) | Easy |
