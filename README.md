@@ -336,6 +336,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3866-first-unique-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3866-first-unique-even-element/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -484,6 +485,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3866-first-unique-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3866-first-unique-even-element/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,6 +513,7 @@
 | [2404-most-frequent-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3866-first-unique-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3866-first-unique-even-element/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
