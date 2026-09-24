@@ -405,6 +405,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0504-base-7](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0504-base-7/) | Easy |
+| [0567-permutation-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
@@ -454,6 +455,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0443-string-compression/) | Medium |
+| [0567-permutation-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0925-long-pressed-name/) | Easy |
@@ -475,6 +477,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0567-permutation-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -570,6 +573,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0567-permutation-in-string/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
