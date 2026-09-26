@@ -335,6 +335,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2395-find-subarrays-with-equal-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -499,6 +500,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
