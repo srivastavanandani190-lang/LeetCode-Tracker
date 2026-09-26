@@ -326,6 +326,7 @@
 | [1528-shuffle-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -559,6 +560,7 @@
 | [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3524-find-x-value-of-array-i/) | Medium |
