@@ -85,6 +85,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -289,6 +290,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0048-rotate-image/) | Medium |
@@ -454,11 +456,13 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -556,6 +560,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0118-pascals-triangle/) | Easy |
