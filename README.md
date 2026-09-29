@@ -153,6 +153,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0441-arranging-coins/) | Easy |
+| [0704-binary-search](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -317,6 +318,7 @@
 | [0566-reshape-the-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0704-binary-search](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
 | [0835-image-overlap](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
