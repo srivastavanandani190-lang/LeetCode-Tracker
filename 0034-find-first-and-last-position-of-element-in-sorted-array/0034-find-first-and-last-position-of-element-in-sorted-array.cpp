@@ -1,22 +1,43 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-       vector<int> res(2, -1);
+        int start = 0, end = nums.size() - 1, first = -1, last = -1, mid;
 
-        for(int i = 0; i < nums.size(); i++) {
-            if(nums[i] == target) {
-                res[0] = i;
-                break;
+        // Find First Occurrence
+        while (start <= end) {
+            mid = start + (end - start) / 2;
+            
+            if (nums[mid] == target) {
+                first = mid;
+                end = mid - 1; // Keep searching in the left half
+            } 
+            else if (nums[mid] < target) {
+                start = mid + 1;
+            } 
+            else {
+                end = mid - 1;
             }
         }
 
-        for(int i = nums.size() - 1; i >= 0; i--) {
-            if(nums[i] == target) {
-                res[1] = i;
-                break;
+        // Find Last Occurrence
+        start = 0; 
+        end = nums.size() - 1;
+        
+        while (start <= end) {
+            mid = start + (end - start) / 2;
+            
+            if (nums[mid] == target) {
+                last = mid;
+                start = mid + 1; // Keep searching in the right half
+            } 
+            else if (nums[mid] < target) {
+                start = mid + 1;
+            } 
+            else {
+                end = mid - 1;
             }
         }
 
-        return res;
+        return {first, last};
     }
 };
