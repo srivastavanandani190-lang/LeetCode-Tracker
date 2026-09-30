@@ -329,6 +329,7 @@
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -515,6 +516,7 @@
 | [0771-jewels-and-stones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1207-unique-number-of-occurrences](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
