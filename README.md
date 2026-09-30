@@ -317,6 +317,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -372,6 +373,7 @@
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
@@ -507,6 +509,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
