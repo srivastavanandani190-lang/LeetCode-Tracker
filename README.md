@@ -162,6 +162,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -342,6 +343,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
