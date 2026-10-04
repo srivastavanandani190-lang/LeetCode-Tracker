@@ -162,6 +162,7 @@
 | [0441-arranging-coins](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -341,6 +342,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -391,6 +393,7 @@
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
