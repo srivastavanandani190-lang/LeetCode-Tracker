@@ -91,6 +91,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -442,6 +443,7 @@
 | [0459-repeated-substring-pattern](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0504-base-7](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
@@ -473,6 +475,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0605-can-place-flowers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0605-can-place-flowers/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -597,6 +600,7 @@
 | [0392-is-subsequence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -668,6 +672,7 @@
 | [0020-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
