@@ -92,6 +92,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -455,6 +456,7 @@
 | [0709-to-lower-case](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [0917-reverse-only-letters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0925-long-pressed-name/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -680,6 +682,7 @@
 | [0022-generate-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
