@@ -91,6 +91,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0402-remove-k-digits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0402-remove-k-digits/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -443,6 +444,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0392-is-subsequence/) | Easy |
+| [0402-remove-k-digits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0402-remove-k-digits/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
@@ -482,6 +484,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0402-remove-k-digits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
 | [0605-can-place-flowers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0605-can-place-flowers/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -493,6 +496,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0402-remove-k-digits/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
