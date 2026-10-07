@@ -354,6 +354,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1528-shuffle-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1528-shuffle-string/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -620,6 +621,7 @@
 | [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -652,6 +654,7 @@
 | [0567-permutation-in-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0567-permutation-in-string/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Backtracking
