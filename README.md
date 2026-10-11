@@ -378,6 +378,7 @@
 | [2395-find-subarrays-with-equal-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -783,6 +784,7 @@
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
