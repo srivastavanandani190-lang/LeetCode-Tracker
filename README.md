@@ -269,6 +269,7 @@
 | [0202-happy-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0367-valid-perfect-square/) | Easy |
@@ -823,4 +824,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0812-largest-triangle-area/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
