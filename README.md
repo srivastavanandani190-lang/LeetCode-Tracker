@@ -346,6 +346,7 @@
 | [0566-reshape-the-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0704-binary-search](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0704-binary-search/) | Easy |
 | [0812-largest-triangle-area](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0812-largest-triangle-area/) | Easy |
 | [0835-image-overlap](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0835-image-overlap/) | Medium |
