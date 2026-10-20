@@ -300,6 +300,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,6 +402,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3866-first-unique-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3866-first-unique-even-element/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -431,6 +433,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -809,6 +812,7 @@
 | [2427-number-of-common-factors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
