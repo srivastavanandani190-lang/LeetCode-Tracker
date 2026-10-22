@@ -116,6 +116,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -147,6 +148,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -657,6 +659,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -716,6 +719,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
@@ -773,6 +777,7 @@
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0342-power-of-four/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Queue
