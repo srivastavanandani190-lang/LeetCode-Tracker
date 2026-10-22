@@ -406,6 +406,7 @@
 | [3866-first-unique-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3866-first-unique-even-element/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
