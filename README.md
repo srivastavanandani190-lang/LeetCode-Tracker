@@ -196,6 +196,7 @@
 | [0476-number-complement](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,6 +403,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3866-first-unique-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3866-first-unique-even-element/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3886-sum-of-sortable-integers/) | Hard |
