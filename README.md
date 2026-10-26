@@ -135,6 +135,7 @@
 | [1254-number-of-closed-islands](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@
 | [1096-brace-expansion-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +411,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3866-first-unique-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3866-first-unique-even-element/) | Easy |
@@ -461,6 +464,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -897,6 +901,7 @@
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
