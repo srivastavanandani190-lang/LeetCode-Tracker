@@ -304,6 +304,7 @@
 | [2413-smallest-even-multiple](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2427-number-of-common-factors/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -528,6 +529,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3110-score-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3110-score-of-a-string/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Greedy
