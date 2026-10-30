@@ -541,6 +541,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -646,6 +647,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -927,4 +929,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
