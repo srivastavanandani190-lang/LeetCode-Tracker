@@ -291,6 +291,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0504-base-7](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0812-largest-triangle-area/) | Easy |
@@ -356,6 +357,7 @@
 | [0414-third-maximum-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
