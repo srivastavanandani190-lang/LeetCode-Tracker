@@ -341,6 +341,7 @@
 | [0051-n-queens](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
@@ -552,6 +553,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0409-longest-palindrome/) | Easy |
@@ -689,6 +691,7 @@
 | [0032-longest-valid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
