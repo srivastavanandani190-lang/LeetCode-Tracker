@@ -1,7 +1,7 @@
-#include <vector>
+#include <algorithm>
 #include <queue>
 #include <unordered_map>
-#include <algorithm>
+#include <vector>
 
 using namespace std;
 
@@ -9,7 +9,8 @@ class Solution {
     class SlidingWindowMedianCost {
         int x;
         priority_queue<long long> low; // max heap for lower half
-        priority_queue<long long, vector<long long>, greater<long long>> high; // min heap for upper half
+        priority_queue<long long, vector<long long>, greater<long long>>
+            high; // min heap for upper half
         unordered_map<long long, int> delayed_low, delayed_high;
         int size_low = 0, size_high = 0;
         long long sum_low = 0, sum_high = 0;
@@ -35,7 +36,8 @@ class Solution {
 
             while (size_low > target_low) {
                 prune_low();
-                if (low.empty()) break;
+                if (low.empty())
+                    break;
                 long long val = low.top();
                 low.pop();
                 sum_low -= val;
@@ -48,7 +50,8 @@ class Solution {
 
             while (size_low < target_low && !high.empty()) {
                 prune_high();
-                if (high.empty()) break;
+                if (high.empty())
+                    break;
                 long long val = high.top();
                 high.pop();
                 sum_high -= val;
@@ -94,9 +97,11 @@ class Solution {
 
         long long get_cost() {
             prune_low();
-            if (low.empty()) return 0;
+            if (low.empty())
+                return 0;
             long long median = low.top();
-            return (median * size_low - sum_low) + (sum_high - median * size_high);
+            return (median * size_low - sum_low) +
+                   (sum_high - median * size_high);
         }
     };
 
@@ -124,7 +129,7 @@ public:
         for (int j = 1; j <= k; ++j) {
             fill(curr_dp.begin(), curr_dp.end(), INF);
             long long min_prev = INF;
-            
+
             for (int i = 1; i <= n; ++i) {
                 if (i >= x) {
                     min_prev = min(min_prev, prev_dp[i - x]);
