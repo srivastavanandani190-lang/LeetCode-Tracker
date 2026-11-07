@@ -400,6 +400,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2057-smallest-index-with-equal-value/) | Easy |
@@ -667,6 +668,7 @@
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
