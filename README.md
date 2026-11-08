@@ -134,6 +134,7 @@
 | [0226-invert-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -217,6 +218,7 @@
 | [0994-rotting-oranges](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Database
@@ -382,6 +384,7 @@
 | [0994-rotting-oranges](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0994-rotting-oranges/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -486,6 +489,7 @@
 | [0867-transpose-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -683,6 +687,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -948,6 +953,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
