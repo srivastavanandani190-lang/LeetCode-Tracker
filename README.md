@@ -102,6 +102,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +429,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -593,6 +595,7 @@
 | [0042-trapping-rain-water](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0042-trapping-rain-water/) | Hard |
 | [0402-remove-k-digits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0402-remove-k-digits/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -773,6 +776,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -859,6 +863,7 @@
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -921,6 +926,7 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Ternary Search
@@ -984,4 +990,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
