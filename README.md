@@ -428,6 +428,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -776,6 +777,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Backtracking
@@ -889,6 +891,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
