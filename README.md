@@ -508,6 +508,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0328-odd-even-linked-list](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## String
@@ -860,6 +861,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0326-power-of-three](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0342-power-of-four/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0894-all-possible-full-binary-trees/) | Medium |
