@@ -564,6 +564,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -716,6 +717,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
