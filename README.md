@@ -358,6 +358,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0162-find-peak-element/) | Medium |
+| [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0228-summary-ranges/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
@@ -458,6 +459,7 @@
 | [0047-permutations-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
+| [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0414-third-maximum-number/) | Easy |
@@ -638,6 +640,7 @@
 | [0049-group-anagrams](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0387-first-unique-character-in-a-string/) | Easy |
