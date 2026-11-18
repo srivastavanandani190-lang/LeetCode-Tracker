@@ -202,6 +202,7 @@
 | [0461-hamming-distance](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0476-number-complement/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -304,6 +305,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
