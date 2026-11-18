@@ -574,6 +574,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3110-score-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3110-score-of-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
