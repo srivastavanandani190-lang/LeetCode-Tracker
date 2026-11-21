@@ -107,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0100-same-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -146,6 +147,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0100-same-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -747,6 +749,7 @@
 | [0053-maximum-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0392-is-subsequence/) | Easy |
@@ -814,6 +817,7 @@
 | [0047-permutations-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0078-subsets/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0494-target-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -1004,6 +1008,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
