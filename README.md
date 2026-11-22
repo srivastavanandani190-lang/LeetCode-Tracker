@@ -578,6 +578,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
