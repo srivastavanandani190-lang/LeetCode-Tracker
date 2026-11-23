@@ -308,6 +308,7 @@
 | [0836-rectangle-overlap](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0836-rectangle-overlap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -399,6 +400,7 @@
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -920,6 +922,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -1031,4 +1034,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
