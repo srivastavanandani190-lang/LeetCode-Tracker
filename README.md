@@ -192,6 +192,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -466,6 +467,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -700,6 +702,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3866-first-unique-even-element](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3866-first-unique-even-element/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1047,4 +1050,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
