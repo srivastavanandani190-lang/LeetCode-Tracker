@@ -324,6 +324,7 @@
 | [2427-number-of-common-factors](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2427-number-of-common-factors/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3360-stone-removal-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -749,6 +750,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/srivastavanandani190-lang/leetcode-tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
